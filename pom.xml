@@ -18,7 +18,7 @@
 		<java.version>11</java.version>
 		<telegrambot.starter.version>5.0.1</telegrambot.starter.version>
 		<unirest.version>3.11.01</unirest.version>
-		<apache.commons.version>3.11</apache.commons.version>
+		<apache.commons.version>3.13.0</apache.commons.version>
 	</properties>
 
 	<dependencies>
